@@ -1,4 +1,4 @@
 # BuscaProductos
 
-Federico Idarraga Cardenas
+Federico Idarraga Cardenas / 
 Evelyn Rodríguez
